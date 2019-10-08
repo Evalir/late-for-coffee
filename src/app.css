@@ -21,7 +21,7 @@
 
 /* HEADER SECTION */
 .coffee {
-  height: 95vh;
+  height: 100vh;
   background-color: var(--black);
   display: flex;
   justify-content: center;
